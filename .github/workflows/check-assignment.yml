@@ -2,9 +2,9 @@ on: push
 name: Check Assignment
 jobs:
   check-allowed-files:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     container:
-      image: ghcr.io/dukestatsci/r_gh_actions:latest
+      image: ghcr.io/gchism94/r_gh_actions:latest
     steps:
     - name: Checkout
       uses: actions/checkout@master
@@ -18,9 +18,9 @@ jobs:
   check-renders:
     env:
       GITHUB_PAT: ${{ secrets.GH_PAT }}
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     container:
-      image: ghcr.io/dukestatsci/r_gh_actions:latest
+      image: ghcr.io/gchism94/r_gh_actions:latest
     steps:
     - name: Checkout
       uses: actions/checkout@master
