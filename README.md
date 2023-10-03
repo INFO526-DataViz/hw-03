@@ -114,8 +114,3 @@ all checks pass.
     free image site like Pixabay ([https://pixabay.com](https://pixabay.com/)) 
     and place the image file in your `images/` folder and the image in the 
     background of the plot.
-    
-    - You are welcomed to use the steps outlined in `ae-12` to recreate this, 
-    but you do not have to. You can do it all in one step as well. Note that 
-    the steps contain good hints though, so if you're struggling, make sure to 
-    look there first.
