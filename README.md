@@ -76,18 +76,8 @@ all checks pass.
 
     <img src="images/median-housing-3-1.png" width="90%" />
 
-4.  **That’s what our guest said.** We had a guest lecture by Dr. Matthew 
-    Kay on Thu, Feb 23. This question as about what you learned in the guest 
-    lecture as well as the reading assigned for the lecture:
-    
-    a. You’ve either attended that guest lecture in person or you should have 
-    watched the recording on Panopto by now. Write a one paragraph summary of 
-    the guest lecture. Make sure your summary includes at least one thing that 
-    you didn’t know before. This can be a tip for better visualization, a 
-    tool/package, or a workflow. Your answer can be just text or also 
-    include code.
-    
-    b. Using the `openintro::loans_full_schema` dataset, fit a linear 
+4.  **Visualizing uncertainty**
+    Using the `openintro::loans_full_schema` dataset, fit a linear 
     model predicting `interest_rate` from `loan_purpose`. Print out the 
     regression output with `broom::tidy()`. Then, using half-eye plots, 
     plot the confidence intervals around each of the slope coefficients 
