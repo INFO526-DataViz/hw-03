@@ -14,14 +14,7 @@ all checks pass.
     fake data, etc. There will be points assigned to creativity for this
     exercise. So just annotating the plot with the letters would earn
     fewer points than a more creative approach. Also, use as little as
-    defaults as possible, in terms of color scales, themes, etc. The
-    plots you make will be shared with our guest speakers as part of a
-    “thank you” note. If you would like your name shown on the plots
-    shared with them, you should add your name somewhere on the plot,
-    e.g., the caption. If you don’t want your name shown, just leave it
-    out and the plot will be shared anonymously. (There are no points
-    attached to adding your name to them, you can choose to share with your 
-    name or anonymously.)
+    defaults as possible, in terms of color scales, themes, etc. 
     
 2.  **A second chance.** Take one of the visualizations from your first project, 
     ideally one you received more feedback on / lost more points on and 
