@@ -51,9 +51,7 @@ Dear [STUDENT GITHUB NAME] -- Below is the feedback for your assignment. Please 
 - Feedback: [Insert feedback here.]
 
 ### Exercise 5: `[_ / 15 points]`
-- Plot title: `[_ / 5]`
-- Dollar coin: `[_ / 5]`
-- Image & text in legend box: `[_ / 5]`
+- Plot reproduction: `[_ / 15]`
 
 Feedback: [Insert feedback here.]
 
